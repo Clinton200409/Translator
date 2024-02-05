@@ -1,4 +1,5 @@
 {
+    "id": "2de0699e-a58f-489c-bfef-3b89a2cd3fb0",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -30,7 +31,7 @@
             "justifyContent": "center",
             "alignItems": "center",
             "display": "flex",
-            "backgroundColor": "rgba(130, 111, 111, 1)"
+            "backgroundColor": "rgba(74, 144, 226, 1)"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
@@ -53,7 +54,7 @@
             "headerStyle": {}
         },
         "tabNavigationOptions": {},
-        "BackgroundColor": "rgba(130, 111, 111, 1)"
+        "BackgroundColor": "rgba(74, 144, 226, 1)"
     },
     "children": [
         {
@@ -559,7 +560,6 @@
             "name": "Image1"
         }
     ],
-    "id": "2de0699e-a58f-489c-bfef-3b89a2cd3fb0",
     "thunkableVersion": 443,
     "name": "Photo Screen"
 }
